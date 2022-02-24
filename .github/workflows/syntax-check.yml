@@ -10,4 +10,4 @@ jobs:
     steps:
     - name: Check out the code
       uses: actions/checkout@v2
-      uses: cclauss/Find-Python-syntax-errors-action@master
+    - uses: cclauss/Find-Python-syntax-errors-action@master
